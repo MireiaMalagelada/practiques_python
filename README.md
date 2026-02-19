@@ -1,2 +1,2 @@
 # practiques_python
-Repositori proves de python (intro SSN)
+Repositori proves de python (Simulació de Sistemes Nanometrics)
